@@ -21,7 +21,7 @@
             alt="Flowbite Logo"
         />
         <span class="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-            Ventrata
+            Tours&Travels
         </span>
     </NavBrand>
     <NavHamburger on:click={toggle} />
